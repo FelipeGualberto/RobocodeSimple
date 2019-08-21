@@ -1,4 +1,4 @@
-	package gualbertorobo;
+package gualbertorobo;
 import robocode.*;
 //import java.awt.Color;
 
